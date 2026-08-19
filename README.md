@@ -25,12 +25,28 @@
 
 ## Скриншоты
 
-<p align="center">
-  <img src=".github/screenshots/01-bot-in-world.png" alt="Фейковый игрок в мире" width="600">
-</p>
-<p align="center">
-  <i>Бот <b>Cheater</b> с собственным скином — для остальных игроков он неотличим от настоящего</i>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src=".github/screenshots/01-bot-in-world.png" alt="Бот в мире" width="100%"><br>
+      <sub><b>Бот в мире</b><br>Собственный скин и тег над головой</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src=".github/screenshots/02-gui-menu.png" alt="GUI-меню" width="100%"><br>
+      <sub><b>GUI-меню</b><br>Настройка бота мышкой, без команд</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src=".github/screenshots/03-possession.png" alt="Вселение" width="100%"><br>
+      <sub><b>Вселение</b><br>Играй за бота как со второго аккаунта</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src=".github/screenshots/04-tablist.png" alt="Список игроков" width="100%"><br>
+      <sub><b>Список игроков</b><br>Бот виден в TAB и в <code>/list</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
