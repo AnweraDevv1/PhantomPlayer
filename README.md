@@ -23,6 +23,17 @@
 
 ---
 
+## Скриншоты
+
+<p align="center">
+  <img src=".github/screenshots/01-bot-in-world.png" alt="Фейковый игрок в мире" width="600">
+</p>
+<p align="center">
+  <i>Бот <b>Cheater</b> с собственным скином — для остальных игроков он неотличим от настоящего</i>
+</p>
+
+---
+
 ## Установка
 
 1. Скачай `PhantomPlayer-1.0.0.jar` из [релизов](../../releases)
