@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.png" alt="PhantomPlayer" width="100%">
+</p>
+
 # PhantomPlayer
 
 **Реалистичные фейковые игроки для Minecraft 1.21.11 (Purpur / Paper)**
