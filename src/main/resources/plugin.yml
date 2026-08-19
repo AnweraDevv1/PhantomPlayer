@@ -1,0 +1,31 @@
+name: PhantomPlayer
+version: '1.0.0'
+main: ru.phantom.PhantomPlugin
+api-version: '1.21'
+description: Реалистичные фейковые игроки (NMS ServerPlayer) с GUI-настройкой, ИИ и режимом вселения.
+authors: [ Phantom ]
+folia-supported: false
+
+commands:
+  phantom:
+    description: Управление фейковыми игроками
+    usage: /phantom [menu|create|remove|possess|release|tp|list|removeall|reload]
+    aliases: [ ph, bot, fakeplayer ]
+
+permissions:
+  phantom.use:
+    description: Доступ к меню и базовым командам
+    default: true
+  phantom.create:
+    description: Создание и удаление своих ботов
+    default: op
+  phantom.possess:
+    description: Вселение в бота
+    default: op
+  phantom.admin:
+    description: Полный доступ ко всем ботам
+    default: op
+    children:
+      phantom.use: true
+      phantom.create: true
+      phantom.possess: true
